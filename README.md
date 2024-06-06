@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Advika Prasad
-- 👀 I’m in 6th grade
-- 🌱 I’m currently learning and using python in my codes
+- 👀 I’m in 7th grade
+- 🌱 I’m currently coding with python
 - 💞️ I’m wanting to grow my skill
 
 <!---
